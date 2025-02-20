@@ -1,0 +1,134 @@
+[33mcommit c8347f7545860631725132d1c86d7729b0e1d558[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Felipe Paz Carvalho Batista <lipepaz23@gmail.com>
+Date:   Thu Feb 20 11:43:03 2025 -0300
+
+    Primeira versão do site
+
+[33mcommit e9abd40c980357bc8ac7a631a3d2908746eebbc3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 51775bb 255c065
+Author: Felipe Domingos <felipebh@gmail.com>
+Date:   Tue May 26 08:26:06 2020 -0300
+
+    Merge pull request #1 from rommelcarneiro/rascunho-novo-modelo
+    
+    Refatoração do Modelo de Documento
+
+[33mcommit 255c0650df6ddc4029f8a247240b33869337d152[m
+Author: Rommel Carneiro <rommelcarneiro@gmail.com>
+Date:   Fri May 22 18:35:14 2020 -0300
+
+    Ajustes em links de orientações de preenchimento
+
+[33mcommit 68496dffbb2de9b3bd311156196d7c60befb5613[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Fri May 22 16:19:29 2020 -0300
+
+    Last updates.
+
+[33mcommit 4c8e35ee76913514b94aa8c07d24aebbb70cccdf[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Fri May 22 15:23:34 2020 -0300
+
+    Update: Adding presentation section
+
+[33mcommit 372c4468fe360d8a4192d62e4fd38ec0dc7fd229[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Fri May 22 15:21:28 2020 -0300
+
+    Update: Adding presentation section
+
+[33mcommit 04c93ec761a60048529bf8b5677149e54379300b[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Fri May 22 11:25:39 2020 -0300
+
+    Update: Improving Tests and References.
+
+[33mcommit 798d650a385ac802b6efb7a4339a78cdb6fb3d07[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Fri May 22 10:57:24 2020 -0300
+
+    Update: Improving Project Management
+
+[33mcommit b8f233ff3e57b575c89334d44f6c5d0ca02864ab[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Thu May 21 23:01:37 2020 -0300
+
+    Ajuste do conteúdo interface.
+
+[33mcommit 3ed6dea6d73b1b2374fc43342f7485436c6a7206[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Thu May 21 22:59:35 2020 -0300
+
+    Ajuste do conteúdo interface.
+
+[33mcommit 29e854e6e99c1f759f83144231ceb862cf21ad34[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Thu May 21 22:59:03 2020 -0300
+
+    Ajuste do conteúdo interface.
+
+[33mcommit 617688e1d735e68859c7fc4fa274b2cbd7756a92[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Thu May 21 22:57:31 2020 -0300
+
+    Ajuste do conteúdo interface.
+
+[33mcommit 3693f69b9a8cfb8f96dbff6f2336d6bc83d84f99[m
+Author: bigheadbh <felipebh@gmail.com>
+Date:   Thu May 21 22:21:00 2020 -0300
+
+    Ajuste do contexto.
+
+[33mcommit b37758a5b54f184752d44b912f31487c8b83eb15[m
+Author: Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+Date:   Thu May 21 20:39:14 2020 -0300
+
+    Update: Improving Solution Design
+
+[33mcommit 29550af20d88df8ea8b25e4e0f09823a02e4a66a[m
+Author: Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+Date:   Thu May 21 20:12:05 2020 -0300
+
+    Update: Improving Configuration Management
+
+[33mcommit 5b3d25d2b1a224eb571943679cb192aec34db51b[m
+Author: Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+Date:   Thu May 21 19:56:48 2020 -0300
+
+    Update: Improving Requirements
+
+[33mcommit c6efa0f88312682ff92e9e651fe2bb2be9787f07[m
+Author: Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+Date:   Thu May 21 19:55:51 2020 -0300
+
+    Add: Git Ignore File
+
+[33mcommit 78610c527a17666c27acec36cb77f777e0110e04[m
+Author: Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+Date:   Tue May 19 19:49:30 2020 -0300
+
+    Refatorando Template Para Nova Estrutura
+
+[33mcommit 51775bbcb3b1700a4b4177c9ec6f809f632d083b[m
+Author: Rommel Carneiro <rommelcarneiro@gmail.com>
+Date:   Mon May 4 00:01:14 2020 -0300
+
+    Criação da estrutura de pastas e templates basicos
+
+[33mcommit b27da2307c6e44588db0a27f72dff6b1c32b2655[m
+Author: Rommel Vieira Carneiro <rommelcarneiro@gmail.com>
+Date:   Sun May 3 22:48:15 2020 -0300
+
+    Update Readme.md - Correções do documento
+
+[33mcommit 1cc300a3a0f40200a18d0870fb025c0d86d65267[m
+Author: Rommel Vieira Carneiro <rommelcarneiro@gmail.com>
+Date:   Sun May 3 21:17:09 2020 -0300
+
+    Update Readme.md, criando uma versão nova
+
+[33mcommit 8b12c0b14e4c109fb91b17d3780de60595814d71[m
+Author: Rommel Vieira Carneiro <rommelcarneiro@gmail.com>
+Date:   Sun May 3 20:32:12 2020 -0300
+
+    Initial commit
